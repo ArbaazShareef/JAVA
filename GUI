@@ -1,0 +1,19 @@
+//Write a program to demostrate  simple chat application 
+
+//CLIENT PROGRAM(ClientChat.java)
+
+import javax.swing.*;
+import javax.swing.event.*;
+import javax.swing.border.*;
+import java.awt.*;
+import java.net.*;
+import java.io.*;
+import java.util.*;
+
+public class ClientChat extends JFrame implements ActionListner
+{
+	JButton send = new Jbutton("Send");
+	JtextArea area = new JTextArea(20,20);
+	JScrollPane jsp = new JScrollPane(area);
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
